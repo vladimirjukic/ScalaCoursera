@@ -1,0 +1,7 @@
+sbt submit vladimir.jukic@hrmsoftware.se a9R6FqpuR4HxXTzc 
+sbt "submit vladimir.jukic@hrmsoftware.se a9R6FqpuR4HxXTzc" 
+sbt
+sbt -version
+submit vladimir.jukic@hrmsoftware.se a9R6FqpuR4HxXTzc 
+compile
+submit vladimir.jukic@hrmsoftware.se a9R6FqpuR4HxXTzc 

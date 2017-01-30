@@ -1,0 +1,7 @@
+"submit vladimir.jukic@hrmsoftware.se bOQPkPUoxisFza1S"
+compile
+"sbt submit vladimir.jukic@hrmsoftware.se bOQPkPUoxisFza1S"
+sbt submit vladimir.jukic@hrmsoftware.se bOQPkPUoxisFza1S
+sbt "submit vladimir.jukic@hrmsoftware.se bOQPkPUoxisFza1S"
+"submit vladimir.jukic@hrmsoftware.se bOQPkPUoxisFza1S"
+exit

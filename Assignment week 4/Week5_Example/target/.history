@@ -1,0 +1,9 @@
+def squareList(xs: List[Int]): List[Int] =
+  xs match {
+    case Nil => ???
+    case y :: ys => ???
+def squareList(xs: List[Int]): List[Int] =
+  xs match {
+    case Nil => ???
+    case y :: ys => ???
+  exit
